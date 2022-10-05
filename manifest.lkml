@@ -3,7 +3,7 @@ project_name: "covid"
 ################ Constants ################
 
 constant: CONNECTION_NAME {
-  value: "lookerdata"
+  value: "4mile_bigquery_davidb"
   export: override_optional
 }
 
